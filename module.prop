@@ -1,0 +1,6 @@
+id=WifiForceRegionUS
+name=WIFI Force Region US
+version=1
+versionCode=1
+author=Ronen
+description=Force WIFI region to US to enable more wifi frequencies
